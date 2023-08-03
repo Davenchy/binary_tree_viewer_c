@@ -9,4 +9,5 @@
 ## Build
 
 ```bash
-make```
+$ make
+```
